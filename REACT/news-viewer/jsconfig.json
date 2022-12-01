@@ -1,0 +1,5 @@
+{
+    "conpilerOptions": {
+        "target": "es6"
+    }
+}
